@@ -1,1 +1,2 @@
-# Data-sceince
+# Data-science
+Thid is data science
